@@ -1,0 +1,57 @@
+*{
+    font-family: "poppins", sent-serif;
+}
+
+.navbar{
+    padding: 10px 0 10px 0;
+}
+
+.nav{
+    background: rgba(0, 0, 0, 0.425); 
+}
+
+
+
+.gallery img{
+    height: 220px;
+    padding-top: 20px;
+}
+
+.deskrip{
+    padding-top: 20px;
+}
+
+.data{
+    font-size: 25px;
+    font-style: bold;
+    padding-top: 20px;
+}
+
+.statistik{
+    font-size: 25px;
+    font-style: bold;
+    padding-top: 20px;
+}
+
+.text-statistik {
+    text-align: justify;
+    text-Indent: 30px;
+  }
+
+.About{
+    padding-top: 20px;
+}
+
+.text-faq1{
+    text-align: justify;
+    text-Indent: 30px;
+}
+
+.footer{
+    background: rgba(0, 0, 0, 0.733);
+}
+
+.t-footer{
+    font-size: 80%;
+    padding-top: 30px;
+}
